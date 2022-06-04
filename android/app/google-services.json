@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904057451272",
+    "project_id": "postest7-egasulfika",
+    "storage_bucket": "postest7-egasulfika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904057451272:android:aa55e14c90fbc830ae32bd",
+        "android_client_info": {
+          "package_name": "com.example.postest7_2009106011_egasulfika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904057451272-defqfrfsp9s5eontqal2tlg0akj0tndn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtVDAtatJduQR2YQ2RkIWh7zThGYnoKSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904057451272-defqfrfsp9s5eontqal2tlg0akj0tndn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
